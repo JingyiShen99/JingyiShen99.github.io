@@ -1,15 +1,15 @@
 ---
 layout: post
 title: My Intern Experience
-subtitle: Where am I from? What am I doing?
+subtitle: Working as an Algorithm Intern
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [internships]
 ---
 
-###Beijing Supreium Technology  Co.,Ltd   
-March 2021— May 2021
+### Beijing Supreium Technology  Co.,Ltd   
+##### March 2021— May 2021
 
 Image Algorithm Intern,  Research & Development Center
 
@@ -17,8 +17,8 @@ Image Algorithm Intern,  Research & Development Center
 - Responsible for the defect detection of industrial castings: According to different types of data sets of customers, mark defects and image processing in an automatic/manual manner to form a standard data set, and use deep learning-based image segmentation algorithms (U-net) to complete defect detection.
 - Assist algorithm engineers to improve and optimize existing algorithms and improve defect detection accuracy.
 
-###Institute of Automation, Chinese Academy of Sciences
-October 2020—June 2021 
+### Institute of Automation, Chinese Academy of Sciences
+##### October 2020—June 2021 
 
 Algorithm Intern,  The State Key Laboratory for Management & Control of Complex Systems
 
