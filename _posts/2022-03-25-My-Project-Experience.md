@@ -25,7 +25,7 @@ comments: true
 - I mainly responsible for Identification of delivery package using YOLOv3; Setup access for Maintenance personnel using keypad; Storage and Retrieval of Food Delivery. 
 - We write a HTML to present our design: [Smart Guest Management System](https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2021_Projects/December%2014/Smart%20Guest%20Monitor%20System/Wednesday_js2825_ys566/index.html)
 
-![Crepe](https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2021_Projects/December%2014/Smart%20Guest%20Monitor%20System/Wednesday_js2825_ys566/pics/group.jpg =100){: .mx-auto.d-block :}
+![Crepe](https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2021_Projects/December%2014/Smart%20Guest%20Monitor%20System/Wednesday_js2825_ys566/pics/group.jpg){: .mx-auto.d-block :height="50%" width="50%"}
 
 ### Implementation of Underwater Image Enhancement Method - Graduation Project  
 ##### November 2020—May 2021
