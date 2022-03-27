@@ -2,11 +2,9 @@
 layout: post
 title: My Project Experience
 subtitle: Here's some interesting projects I have done in school
-
 cover-img: /assets/img/path2.jpg
 thumbnail-img: /assets/img/thumb2.png
 share-img: /assets/img/path2.jpg
-
 gh-repo: JingyiShen99/CNN-models-reproduction
 gh-badge: [star, fork, follow]
 tags: [projects]
