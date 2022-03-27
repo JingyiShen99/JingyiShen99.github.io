@@ -15,10 +15,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Github: "https://github.com/JingyiShen99"
+  LinkedIn: "https://www.linkedin.com/in/jingyi-shen-544b75212/"
+  University Websites:
+    - Cornell University: "https://www.cornell.edu/"
+    - University of Science & Technology Beijing: "https://en.ustb.edu.cn/"
 
 # --- Logo --- #
 
