@@ -1,10 +1,10 @@
 ---
 layout: post
-title: WHO AM I?
-subtitle: Where am I from? What am I doing?
-gh-repo: daattali/beautiful-jekyll
+title: My Project Experience
+subtitle: Here's some project in school
+gh-repo: JingyiShen99
 gh-badge: [star, fork, follow]
-tags: [Introduction]
+tags: [projects]
 comments: true
 ---
 
