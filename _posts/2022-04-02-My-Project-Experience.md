@@ -2,7 +2,7 @@
 layout: post
 title: My Project Experience
 subtitle: Here's some project in school
-gh-repo: JingyiShen99
+gh-repo: JingyiShen99/CNN-models-reproduction
 gh-badge: [star, fork, follow]
 tags: [projects]
 comments: true
